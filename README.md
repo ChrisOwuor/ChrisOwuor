@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Machine learning and cybersecurity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChrisOwuor](https://github.com/ChrisOwuor)
-- 💬 Ask me about **react,django,node ,react native,Machine Learning and computer networking**
+- 💬 Ask me about **react,django,node ,sql ,nosql and computer networking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
