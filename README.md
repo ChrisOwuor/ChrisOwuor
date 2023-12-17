@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chrispine</h1>
 <h3 align="center">A passionate software developer</h3>
-
+### am currently studying
 - 🌱 I’m currently learning **Machine learning and cybersecurity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChrisOwuor](https://github.com/ChrisOwuor)
