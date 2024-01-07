@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chrispine</h1>
 <h3 align="center">A passionate software developer</h3>
-- 🌱 I’m currently learning **Machine learning and cybersecurity**
+- 🌱 I’m currently learning **c++ and django **
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChrisOwuor](https://github.com/ChrisOwuor)
 - 💬 Ask me about **react,django,node ,sql ,nosql and computer networking**
